@@ -1,0 +1,5 @@
+requests
+psutil
+pymongo
+dnspython
+concurrent.futures; python_version<"3.2"
